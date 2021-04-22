@@ -1,4 +1,5 @@
 # VECTOR-TEMPLATE-CLASS
+assginment in fcai 
 Declaring and Defining an FciVector Template class which have all functions like standard 
 vector, declare all FciVector functions and their implementations in FciVector.h using it in main 
 function as a separate file by including FciVector.h to add list of integer, list of character, list of 
